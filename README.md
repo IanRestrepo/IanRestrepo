@@ -4,9 +4,9 @@ Hey There, My name is Ian, i'm an Self-Thaught & College Student of Software Eng
 
 I'm **Currently** Working on:
 
-Full Stack Development with JavaScript 💛
-Super-Advanced Luau 💙
-Advanced UI/UX 🎨
+*  Full Stack Development with JavaScript 💛
+*  Super-Advanced Luau 💙
+*  Advanced UI/UX 🎨
 
 if You wanna contact me i'll show you the way 🛣: 
 - [x]   Email: contactoianrpo@gmail.com
