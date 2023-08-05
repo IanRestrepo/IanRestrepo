@@ -1,6 +1,6 @@
 ### 🪐 | Ian Restrepo
 
-Hey There, My name is Ian, i'm an Self-Thaught & College Student of Software Engineering, with more than 7 years of experience.
+Hey There, My name is Ian, i'm an Self-Thaught & University Student of Software Engineering, with more than 7 years of experience.
 
 I'm **Currently** Working on:
 
