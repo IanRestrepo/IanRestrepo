@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Estudiante de Ingeniería de Software 📚👾 | 🇨🇴 Colombia 🌎<br>🎉 ¡Hola! Soy Ian, un joven apasionado por la programación desde los 9 años 🚀<br>💡 7 años de experiencia en código y contando ⏳👨‍💼 | 💻 Lenguajes: [Tus lenguajes favoritos aquí]<br>🎨 Diseñador Gráfico Creativo 🎨 | 🖌️ Diseñador UI en ciernes 🌈<br>📚 Aprendiendo cada día para forjar un futuro tecnológico brillante 🌟<br>🤝 ¡Conéctate! Siempre emocionado por colaborar en proyectos interesantes 🤝
+👨‍💻 Estudiante de Ingeniería de Software 📚👾 | 🇨🇴 Colombia 🌎<br>🎉 ¡Hola! Soy Ian, un joven apasionado por la programación desde los 9 años 🚀<br>💡 7 años de experiencia en código y contando ⏳👨‍💼 <br>🎨 Diseñador Gráfico Creativo 🎨 | 🖌️ Diseñador UI en ciernes 🌈<br>📚 Aprendiendo cada día para forjar un futuro tecnológico brillante 🌟<br>🤝 ¡Conéctate! Siempre emocionado por colaborar en proyectos interesantes 🤝
 
 
 ## 🌐 Socials:
